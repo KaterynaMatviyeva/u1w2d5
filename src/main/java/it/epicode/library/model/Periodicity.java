@@ -1,4 +1,7 @@
 package it.epicode.library.model;
 
-public class Periodicity {
+public enum Periodicity {
+    WEEKLY,
+    MONTHLY,
+    SEMIANNUALLY
 }
